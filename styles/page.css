@@ -1,0 +1,18 @@
+
+.continut{
+  margin-top: 100px;
+  border: solid;
+  width: max-content;
+  border-width: 1px;
+  box-shadow: -5px 5px 5px #aaaaaa;
+  border-radius: 4px;
+  margin-left: 60px;
+}
+.container{
+  border: solid;
+  width: max-content;
+  border-width: 1px;
+  box-shadow: -5px 5px 5px #aaaaaa;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}

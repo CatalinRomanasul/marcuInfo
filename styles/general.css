@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  text-shadow: red 1px 0 10px;
+  font-size: 35px;
+}
+
+.marcu{
+  color: yellow;
+  text-shadow:black 1px 0 10px;
+}
+a{
+  cursor: pointer;
+  text-decoration:double;
+  transition: 0.51s;
+  
+}
+img{
+  object-fit: contain;
+}
+
+li{margin-top: 10px;}
+
+a:hover{
+  color: blue;
+  border-style: solid;
+  border-color: black; 
+  border-width: 0.5px;
+}
+
+a:active{
+  color: white;
+}

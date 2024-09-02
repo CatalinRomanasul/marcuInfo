@@ -1,0 +1,21 @@
+.insta {
+  display: inline-block;  /* Ensures the link is treated as a block for applying width and height */
+  width: 100%;  /* Adjust the width to the desired size */
+  height: 100%;  /* Adjust the height to the desired size */
+  background-image: url('instagram.png');  /* Sets the background image */
+  background-size: contain;  /* Makes the image cover the entire element */
+  background-position: center;  /* Centers the background image */
+  background-repeat: no-repeat;  /* Prevents the image from repeating */
+}
+
+.actiuni{
+  color: red;
+  font-size:1rem;
+  font-weight: 900;
+
+
+}
+#lectii{
+  margin-right: 10%;
+}
+
